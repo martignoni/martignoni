@@ -12,6 +12,6 @@ I'm an OpenEdTech enthusiast, a [Moodle](https://moodle.org/) freak and free sof
 </a>
 -->
 
-[tw]: https://twitter.com/Martin_Heinz_
-[gh]: https://github.com/MartinHeinz
-[blog]: https://www.linkedin.com/in/heinz-martin/
+[tw]: https://twitter.com/nmartignoni
+[gh]: https://github.com/martignoni
+[blog]: https://blog.martignoni.net/
