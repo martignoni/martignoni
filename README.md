@@ -6,12 +6,12 @@ I'm an OpenEdTech enthusiast, a [Moodle](https://moodle.org/) freak and free sof
 
 ### I'm the developer and maintainer of [MoodleBox](https://github.com/moodlebox/moodlebox). You should [download it now](https://moodlebox.net/)!
 
-<details>
+<!-- <details>
     <summary>GitHub Stats</summary>
     <p align="center">
         <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=martignoni&show_icons=true&hide=issues&theme=dark">
     </p>
-</details> 
+</details>  -->
 
 <!--
 <a href="https://github.com/martignoni/">
